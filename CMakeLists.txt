@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.15)
 project(LimitOrderBook)
 
-set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_CXX_STANDARD 20)
 
 # vcpkg toolchain provides this
 find_package(Catch2 CONFIG REQUIRED)
