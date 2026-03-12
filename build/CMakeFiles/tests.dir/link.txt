@@ -1,0 +1,1 @@
+/usr/bin/clang++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/tests.dir/tests/tests.cpp.o -o tests  /Users/joshlegrice/vcpkg/installed/x64-osx/debug/lib/manual-link/libCatch2Maind.a /Users/joshlegrice/vcpkg/installed/x64-osx/debug/lib/libCatch2d.a

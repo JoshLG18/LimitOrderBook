@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/joshlegrice/Desktop/Personal/Quant Learning/LimitOrderBook/build",
+  "command": "/usr/bin/clang++  -I\"/Users/joshlegrice/Desktop/Personal/Quant Learning/LimitOrderBook/include\" -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk -o CMakeFiles/main.dir/src/main.cpp.o -c \"/Users/joshlegrice/Desktop/Personal/Quant Learning/LimitOrderBook/src/main.cpp\"",
+  "file": "/Users/joshlegrice/Desktop/Personal/Quant Learning/LimitOrderBook/src/main.cpp",
+  "output": "CMakeFiles/main.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/joshlegrice/Desktop/Personal/Quant Learning/LimitOrderBook/build",
+  "command": "/usr/bin/clang++  -I\"/Users/joshlegrice/Desktop/Personal/Quant Learning/LimitOrderBook/include\" -I\"/Users/joshlegrice/Desktop/Personal/Quant Learning/LimitOrderBook\" -isystem /Users/joshlegrice/vcpkg/installed/x64-osx/include -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk -o CMakeFiles/tests.dir/tests/tests.cpp.o -c \"/Users/joshlegrice/Desktop/Personal/Quant Learning/LimitOrderBook/tests/tests.cpp\"",
+  "file": "/Users/joshlegrice/Desktop/Personal/Quant Learning/LimitOrderBook/tests/tests.cpp",
+  "output": "CMakeFiles/tests.dir/tests/tests.cpp.o"
+}
+]

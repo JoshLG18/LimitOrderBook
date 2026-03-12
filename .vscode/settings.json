@@ -1,0 +1,8 @@
+{
+  "cmake.configureSettings": {
+    "CMAKE_TOOLCHAIN_FILE": "/Users/joshlegrice/vcpkg/scripts/buildsystems/vcpkg.cmake"
+},
+"cmake.sourceDirectory": "/Users/joshlegrice/Desktop/Personal/Quant Learning/LimitOrderBook",
+"cmake.buildDirectory": "/Users/joshlegrice/Desktop/Personal/Quant Learning/LimitOrderBook/build",
+"cmake.configureOnOpen": true
+}
